@@ -1,0 +1,2 @@
+# trump_social_media_words_tracker
+实时抓取特朗普言论，推送到企业微信机器人
