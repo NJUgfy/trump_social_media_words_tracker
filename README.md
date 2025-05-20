@@ -18,3 +18,6 @@ STATE_FILE -> tweet_state.json , file name for storage use, you can use the defa
 [QYWX]
 QYWX_WEBHOOK_NUMBER -> how many qywx webhooks do you have. <br>
 QYWX_WEBHOOK_{} -> each of your webhooks you have, {} means the number from 1, 2... to {QYWX_WEBHOOK_NUMBER}
+
+# 效果预览
+![image](https://github.com/user-attachments/assets/a7de4aef-874e-4f82-8f28-17396c420b4a)
